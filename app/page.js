@@ -78,7 +78,7 @@ export default function Home() {
     };
 
     return (
-        <main className="h-full text-black p-8 bg-gray-100">
+        <main className="min-h-screen text-black p-8 bg-gray-100">
             <h1 className="text-4xl font-bold mb-8 text-center text-blue-600">
                 User-Controlled Wallets
             </h1>
